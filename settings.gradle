@@ -1,0 +1,2 @@
+include ':app', ':redscreen', ':greenscreen', ':purplescreen', ':whitescreen'
+rootProject.name='ModuleParty'
